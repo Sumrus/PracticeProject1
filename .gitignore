@@ -1,2 +1,5 @@
+#Json file to be ignored (angularcli.json)
 *.json
+
+#ts file to be ignored (component.ts)
 *.ts
